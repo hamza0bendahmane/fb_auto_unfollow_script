@@ -22,7 +22,7 @@ Open Facebook and go to your "Following" list (where the 3-dot menus appear).
 Scroll to load as many entries as possible.
 
 Open the browser console (F12 → Console tab).
-type : "allow pasting" and then Press Enter, because Facebook is desactivating the script pasting be default.
+type : "allow pasting" and then Press Enter, because Facebook is desactivating the script pasting by default.
 
 Paste the full script .
 
