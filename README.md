@@ -1,4 +1,5 @@
-# fb_auto_unfollow_script
+![Preview]([https://yourdomain.com/image.png](https://www.globalts.com/images/easyblog_shared/January_2023/1-11-23/unfollow_FB_271583701_400.jpg))
+### Facebook auto unfollow script
 a js script that unfollow pages, profiles automatically u just have to run it on the browser console .
 
 ## what is it : 
