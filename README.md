@@ -22,5 +22,7 @@ Scroll to load as many entries as possible.
 
 Open the browser console (F12 → Console tab).
 type : "allow pasting" and then Press Enter, because Facebook is desactivating the script pasting be default.
+
 Paste the full script .
+
 Press Enter and wait while it clicks each item and unfollows.
